@@ -1,6 +1,6 @@
 /**
-  *	@name Ocean
-  *	@author DevEvil#8745
+  *	@name Nacho
+  *	@author snacks#1739
   *	@version 1.0
   *	@description Highly customized and customizable theme for Discord
   * @authorId 468132563714703390
@@ -10,29 +10,12 @@
   * @invite jsQ9UP7kCA
 */
 
-/*
- ________  ________  _______   ________  ________                                                        
-|\   __  \|\   ____\|\  ___ \ |\   __  \|\   ___  \                                                      
-\ \  \|\  \ \  \___|\ \   __/|\ \  \|\  \ \  \\ \  \                                                     
- \ \  \\\  \ \  \    \ \  \_|/_\ \   __  \ \  \\ \  \                                                    
-  \ \  \\\  \ \  \____\ \  \_|\ \ \  \ \  \ \  \\ \  \                                                   
-   \ \_______\ \_______\ \_______\ \__\ \__\ \__\\ \__\                                                  
-    \|_______|\|_______|\|_______|\|__|\|__|\|__| \|__|                                                  
-                                                                                                                                                                                                        
- ________      ___    ___      ________  _______   ___      ___ _______   ___      ___ ___  ___          
-|\   __  \    |\  \  /  /|    |\   ___ \|\  ___ \ |\  \    /  /|\  ___ \ |\  \    /  /|\  \|\  \         
-\ \  \|\ /_   \ \  \/  / /    \ \  \_|\ \ \   __/|\ \  \  /  / | \   __/|\ \  \  /  / | \  \ \  \        
- \ \   __  \   \ \    / /      \ \  \ \\ \ \  \_|/_\ \  \/  / / \ \  \_|/_\ \  \/  / / \ \  \ \  \       
-  \ \  \|\  \   \/  /  /        \ \  \_\\ \ \  \_|\ \ \    / /   \ \  \_|\ \ \    / /   \ \  \ \  \____  
-   \ \_______\__/  / /           \ \_______\ \_______\ \__/ /     \ \_______\ \__/ /     \ \__\ \_______\
-    \|_______|\___/ /             \|_______|\|_______|\|__|/       \|_______|\|__|/       \|__|\|_______|
-             \|___|/                                                                                                                                                                                                                                                                                               
-*/
 
-@import url('https://devevil99.github.io/devevil/BetterDiscordAddons/Theme/Ocean/Ocean.theme.css');
+
+@import url('https://github.com/Nachiiitos1/amogos/edit/main/Ocean.theme.css');
 
 :root {
-  --ocean-bg: url(https://cdn.discordapp.com/attachments/468141324906921984/874986058562043984/background.png);
+  --ocean-bg: url(https://cdn.discordapp.com/attachments/760504396466880522/915884622372536341/maxresdefault.jpg);
   --ocean-home-icon: url(https://cdn.discordapp.com/attachments/468141324906921984/874999698426068992/ocean-home-icon.png);
   --ocean-color1: #00d5ce;
   --ocean-color2: #0a173a;
